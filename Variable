@@ -1,0 +1,18 @@
+using System;
+
+public class HM
+{
+	public Variables()
+	{
+        bool ItIsTrue = false, ItIsFalse = true;
+        float ItIsFl;
+        double ItIsDbf;
+        int ItIsMinusOwn;
+        uint ItIsOwn;
+        byte It_is_exactly_not_two_hundred_and_fifty_five;
+        short ItIsLikeAByte;
+        long ItIsALot;
+        string ItIsString;
+        char ItIsA;
+    }
+}
